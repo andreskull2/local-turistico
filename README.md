@@ -19,7 +19,7 @@ Desafio prático para a formação Fullstack, promovido pela Rocketseat para ens
 <br>
 
 <p align="center">
-  <img alt="projeto Local Turístico" src="github/Thumbnail.png" width="100%">
+  <img alt="projeto Local Turístico" src="github/thumbnail.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
